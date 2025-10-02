@@ -24,7 +24,7 @@ public class WorkWithPropertiesApplication {
         System.out.println("Cars: " + dealerShipProperties.getCars());
 //        System.out.println("Workers: " + dealerShipProperties.getWorkers());
         System.out.println("Address: " + dealerShipProperties.getAddress());
-        //new line
+        //new line2
     }
 
 }
