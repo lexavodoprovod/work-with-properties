@@ -22,9 +22,9 @@ public class WorkWithPropertiesApplication {
     public void onReady(){
         System.out.println("Name: " + dealerShipProperties.getName());
         System.out.println("Cars: " + dealerShipProperties.getCars());
-        System.out.println("Workers: " + dealerShipProperties.getWorkers());
+//        System.out.println("Workers: " + dealerShipProperties.getWorkers());
         System.out.println("Address: " + dealerShipProperties.getAddress());
-
+        //new line
     }
 
 }
