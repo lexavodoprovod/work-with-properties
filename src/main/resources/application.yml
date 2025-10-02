@@ -1,0 +1,17 @@
+app:
+  dealership:
+    name: New DealerShip
+    cars:
+      - car1
+      - car2
+      - car3
+    workers:
+      roma:
+        position: seller
+        sallary: 1200
+      egor:
+        position: mechanic
+        sallary: 1300
+    address:
+      city: Gomel
+      street: Efremova23

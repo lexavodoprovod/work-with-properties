@@ -1,0 +1,7 @@
+app:
+  dealership:
+    name: Diffrent dealership
+    cars:
+      - roma car1
+      - roma car2
+      - roma car3
